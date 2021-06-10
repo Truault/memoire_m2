@@ -1,0 +1,40 @@
+########JDD PORTEE ET INFLUENCE DES COMPTES ######
+
+
+
+#####290421
+
+
+
+Export des données RT
+
+
+Difficulté à mettre en place un index
+
+
+
+#####020521
+
+Impossible d'exporter portee comments car il faut ajouter dans la portee des comments l'element source  (résolu)
+
+
+#####030521
+
+
+
+Analyser la distribution des commentaires et des retweets.
+
+
+#####
+
+Deux analyses : une sur les comptes, l'autre sur les tweets individuels.
+On peut aussi regarder les graphiques en fonction du nombre d'abonnés par exemple.
+
+
+
+####090521######
+
+
+Pour le graphe ego des comptes les plus importants : regarder la weight la plus importante d'abord
+
+Cpt, regarder les liens entre les comptes qui ont un lien avec Joe Biden.

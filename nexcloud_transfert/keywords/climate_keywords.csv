@@ -1,0 +1,757 @@
+status	label	forms
+map	A2 scenario	A2 scenario ; scenario A2 ; A2 scenarios ; scenarios A2 ; Scénario A2 ; A2 scenario
+map	abiotic factors	abiotic factors ; facteurs abiotiques
+map	above-ground biomass	above-ground biomass ; aboveground biomass ; la biomasse aérienne ; above-ground biomass
+map	abrupt changes	abrupt changes ; abrupt change ; changes and abrupt ; changements brusques ; abrupt changes
+map	acidification	acidification
+map	adaptation options	adaptation options ; adaptation option ; options for adaptation ; adaptation as an option ; options d'adaptation ; adaptation options
+map	adaptation policy	adaptation policy ; adaptation policies ; policy adaptation ; policy of adaptation ; adaptation and policy ; policies of adaptation ; politique d'adaptation ; adaptation policy
+map	adaptive capacity	adaptive capacity ; adaptive capacities ; Adaptive capacity ; Adaptive Capacity ; capacité d'adaptation ; adaptive capacity
+map	agricultural soils	agricultural soils ; agricultural soil ; soil and agricultural ; sols agricoles ; agricultural soils
+map	air pollutants	air pollutants ; air pollutant ; air pollution ; polluants atmosphériques ; air pollutants
+map	air quality	air quality ; quality of air ; qualité de l'air ; air quality
+map	air temperature	air temperature ; air temperatures ; température de l'air ; air temperature
+map	alpine grasslands	alpine grasslands ; alpine grassland ; prairies alpines ; alpine grasslands
+map	alpine meadow	alpine meadow ; alpine meadows ; meadows and alpine ; prairie alpine ; alpine meadow
+map	altitudinal gradient	altitudinal gradient ; altitudinal gradients ; gradient d'altitude ; altitudinal gradient
+map	ambient temperature	ambient temperature ; ambient temperatures ; température ambiante ; ambient temperature
+map	annual precipitation	annual precipitation ; Annual precipitation ; precipitation annual ; précipitations annuelles ; annual precipitation
+map	annual runoff	annual runoff ; runoff and annual ; ruissellement annuel ; annual runoff
+map	annual temperature	annual temperature ; annual temperatures ; temperature annual ; température annuelle ; annual temperature
+map	Antarctic	Antarctic ; antarctic ; Antarctique ; Antarctic
+map	climate change adaptation	anthropogenic climate change ; climate change and anthropogenic ; Anthropogenic climate change ; Climate change and anthropogenic ; climate change and the anthropogenic ; changement climatique anthropique ; anthropogenic climate change
+map	antioxidant	antioxidant ; antioxidants ; antioxydant ; antioxidant
+map	aphid	aphid ; aphids ; Aphid ; pucerons ; aphid
+map	aquatic environments	aquatic environments ; aquatic ecosystems ; Aquatic ecosystems ; aquatic ecosystem ; milieux aquatiques ; aquatic environments
+map	arid regions	arid regions ; arid region ; régions arides ; arid regions
+map	aridity	aridity ; aridité
+map	atmospheric circulation	atmospheric circulation ; atmospheric circulations ; circulation atmosphérique ; atmospheric circulation
+map	atmospheric CO2	atmospheric CO2 ; atmospheric carbon dioxide ; atmospheric CO2 ; carbon dioxide from the atmosphere ; carbon dioxide in the atmosphere ; atmosphere as carbon dioxide ; CO2 atmosphérique ; atmospheric CO2
+map	bacteria	bacteria ; Bacteria ; bactéries ; bacteria
+map	basal area	basal area ; basal areas ; zone basale ; basal area
+map	behavior change	behavior change ; behavior changes ; change behavior ; changes in behavior ; change of behavior ; behaviour change ; change in behaviour ; behavioural change ; behavioural changes ; changement de comportement ; behavior change
+map	biochar	biochar
+map	biodiesel	biodiesel
+map	biodiversity	biodiversity ; biodiversité
+map	biodiversity conservation	biodiversity conservation ; conservation of biodiversity ; conservation de la biodiversité ; biodiversity conservation
+map	biodiversity hotspots	biodiversity hotspots ; biodiversity hotspot ; hotspots of biodiversity ; hotspot for biodiversity ; hotspot of biodiversity ; hotspots de la biodiversité ; biodiversity hotspots
+map	bioenergy	bioenergy ; bioénergie
+map	biofuels	biofuels ; biocarburants
+map	biogeochemical cycles	biogeochemical cycles ; biogeochemical cycling ; cycles biogéochimiques ; biogeochemical cycles
+map	biological invasions	biological invasions ; biological invasion ; Biological invasions ; invasions biologiques ; biological invasions
+map	biomarkers	biomarkers ; biomarqueurs
+map	biomass carbon	biomass carbon ; Biomass carbon ; carbon biomass ; biomass and carbon ; carbon as biomass ; carbone de la biomasse ; biomass carbon
+map	biomass production	biomass production ; Biomass production ; Biomass and production ; biomass and production ; production de la biomasse ; biomass production
+map	biomes	biomes ; biome ; biomes
+map	biotic interactions	biotic interactions ; Biotic interactions ; biotic interaction ; interactions biotiques ; biotic interactions
+map	bird species	bird species ; species of birds ; espèces d'oiseaux ; bird species
+map	black carbon	black carbon ; carbon and black ; noir de carbone ; black carbon
+map	canopy	canopy ; canopies ; Canopy ; canopée ; canopy
+map	carbon accumulation	carbon accumulation ; Carbon accumulation ; accumulation of carbon ; accumulation de carbone ; carbon accumulation
+map	carbon balance	carbon balance ; carbon balances ; bilan carbone ; carbon balance
+map	carbon budget	carbon budget ; carbon budgets ; budget carbone ; carbon budget
+map	carbon cycle	carbon cycle ; carbon cycles ; cycle carbon ; Carbon cycle ; carbon cycling ; cycling of carbon ; cycle du carbone ; carbon cycle
+map	carbon dynamics	carbon dynamics ; Carbon dynamics ; dynamics of carbon ; dynamique du carbone ; carbon dynamics
+map	carbon emissions	carbon emissions ; carbon emission ; Carbon emissions ; emissions carbon ; carbon release ; émissions de carbone ; carbon emissions
+map	carbon fluxes	carbon fluxes ; carbon flux ; flux de carbone ; carbon fluxes
+map	carbon footprint	carbon footprint ; carbon footprints ; Carbon footprint ; empreinte carbone ; carbon footprint
+map	carbon isotope	carbon isotope ; carbon isotopes ; isotope de carbone ; carbon isotope
+map	carbon loss	carbon loss ; carbon losses ; Carbon losses ; loss of carbon ; losses of carbon ; loss carbon ; perte de carbone ; carbon loss
+map	carbon markets	carbon markets ; carbon market ; Carbon markets ; marchés du carbone ; carbon markets
+map	carbon pools	carbon pools ; carbon pool ; pools of carbon ; bassins de carbone ; carbon pools
+map	carbon price	carbon price ; carbon prices ; price on carbon  ; carbon pricing ; pricing carbon ; prix du carbone ; carbon price
+map	carbon sequestration	carbon sequestration ; Carbon sequestration ; sequestration of carbon ; carbon capture ; Carbon capture ; carbon capture and storage ; Carbon capture and storage ; carbon capture storage ; séquestration du carbone ; carbon sequestration
+map	carbon sink	carbon sink ; carbon sinks ; sink for carbon ; sink of carbon ; puits de carbone ; carbon sink
+map	carbon source	carbon source ; carbon sources ; source of carbon ; source of the carbon ; sources of carbon ; source de carbone ; carbon source
+map	carbon stocks	carbon stocks ; carbon stock ; Carbon stocks ; Carbon stock ; stock of carbon ; stocks de carbone ; carbon stocks
+map	carbon storage	carbon storage ; Carbon storage ; storage of carbon ; stockage du carbone ; carbon storage
+map	carbon taxes	carbon taxes ; Carbon taxes ; carbon tax ; taxes sur le carbone ; carbon taxes
+map	carbon uptake	carbon uptake ; absorption du carbone
+map	change drivers	change drivers ; drivers of change ; drivers of changes ; drivers of these changes ; changes in these drivers ; facteurs de changement ; change drivers
+map	change policy	change policy ; change policies ; policy changes ; policy change ; changes in policy ; change in policy ; changement politique ; change policy
+map	change risks	change risks ; change risk ; changes in risk ; risk of changes ; risk of change ; change in risk ; risk for change ; risques liés au changement ; change risks
+map	change scenarios	change scenarios ; change scenario ; changes scenarios ; scenarios of changes ; changes with scenarios ; scenarios of change ; changes under scenarios ; scenarios of the changes ; scénarios de changement ; change scenarios
+map	charcoal	charcoal ; charbon de bois
+map	chlorophyll	chlorophyll ; Chlorophyll ; chlorophylle ; chlorophyll
+map	chlorophyll fluorescence	chlorophyll fluorescence ; chlorophyll a fluorescence ; fluorescence de la chlorophylle ; chlorophyll fluorescence
+map	chlorophyll-a concentration	chlorophyll-a concentration ; chlorophyll-a concentrations ; chlorophyll concentration ; chlorophyll a concentration ; chlorophyll concentrations ; chlorophyll a concentrations ; concentration en chlorophylle a ; chlorophyll-a concentration
+map	circulation models	circulation models ; circulation model ; model circulation ; modèles de circulation ; circulation models
+map	climate change adaptation	climate change adaptation ; Climate change adaptation ; climate change and adaptation ; adaptation of climate change ; climate change for adaptation ; adaptation for climate change ; Climate change and adaptation ; climate change and the adaptation ; climate change with adaptation ; adaptation of the climate change ; climate change through adaptation ; adaptation au changement climatique ; climate adaptation ; Climate adaptation
+map	climate change adaptation strategies	climate change adaptation strategies ; climate change adaptation strategy ; adaptation strategies for climate change ; strategy for climate change adaptation ; adaptation strategy for climate change ; climate change and the adaptation strategies ; strategies for climate change adaptation ; climate change adaptation measures ; stratégies d'adaptation au changement climatique ; climate change adaptation strategies
+map	climate change mitigation	climate change mitigation ; Climate change mitigation ; mitigation of climate change ; Mitigation of climate change ; mitigation against climate change ; climate change and mitigation ; climate mitigation ; atténuation du changement climatique ; climate change mitigation
+map	climate change perceptions	climate change perceptions ; perceptions of climate change ; perception of climate change ; perceptions about climate change ; Perceptions of climate change ; climate change perception ; perceptions on climate change ; Perceptions on climate change ; climate change in perception ; perception on about climate change ; perception towards climate change ; perception du changement climatique ; climate change perceptions
+map	climate change projections	climate change projections ; Climate change projections ; climate change projection ; projections of climate change ; projections for climate change ; projections without climate change ; projection in the climate change ; projections under climate change ; projections de changement climatique ; climate change projections
+map	climate change risks	climate change risks ; climate change risk ; risks of climate change ; risk of climate change ; risk from climate change ; risks from climate change ; risk upon climate change ; climate change on the risk ; climate change as a risk ; risk climate change ; climate change in the risk ; risques liés au changement climatique ; climate change risks
+map	climate change scenarios	climate change scenarios ; climate change scenario ; Climate change scenarios ; scenarios of climate change ; climate changes scenarios ; scenario of climate change ; scenarios for climate change ; change climate scenarios ; climate change across scenarios ; scenarios of climate changes ; climate change across the scenarios ; scénarios de changement climatique ; future climate change scenarios ; future climate change scenario ; future scenarios of climate change ; scenarios of future climate change ; future change climate scenarios ; scenario of future climate change ; scenarios for future climate change ; future scenarios under climate change
+map	climate change vulnerability	climate change vulnerability ; Climate change vulnerability ; climate change and vulnerability ; vulnerability against climate change ; vulnerability towards climate change ; vulnerability and climate change ; Climate change and vulnerability ; vulnérabilité au changement climatique ; climate change vulnerability
+map	climate data	climate data ; Climate data ; data on climate ; data from climate ; data for climate ; data from the Climate ; données climatiques ; climate data
+map	climate model simulations	climate model simulations ; climate model simulation ; simulations des modèles climatiques ; climate model simulations
+map	Climate Models	Climate Models ; climate models ; climate model ; Climate models ; Climate model ; model climate ; model of Climate ; model of climate ; climate modeling ; modèles climatiques ; Climate Models
+map	climate policy	climate policy ; climate policies ; Climate policy ; climate politics ; politique climatique ; climate policy
+map	climate predictions	climate predictions ; climate prediction ; predictions of climate ; prévisions climatiques ; climate predictions
+map	climate projections	climate projections ; Climate projections ; climate projection ; Climate Projections ; projections of climate ; projections climatiques ; climate projections
+map	climate response	climate response ; climate responses ; climate from the responses ; response of climate ; response of the climate ; réponse du climat ; climate response
+map	climate risks	climate risks ; climate risk ; risk climate ; risques climatiques ; climate risks
+map	climate scenarios	climate scenarios ; climate scenario ; Climate scenarios ; scenarios of climate ; scénarios climatiques ; climate scenarios
+map	climate sensitivity	climate sensitivity ; climate sensitivities ; Climate sensitivity ; sensibilité du climat ; climate sensitivity
+map	climate simulations	climate simulations ; climate simulation ; Climate Simulations ; Climate simulations ; simulations climatiques ; climate simulations
+map	climate uncertainty	climate uncertainty ; climate uncertainties ; uncertainty of climate ; uncertainty about climate ; uncertainty in both climate ; uncertainties of the climate ; uncertainty in climate ; uncertainties in the climate ; climate of uncertainty ; incertitude climatique ; climate uncertainty
+map	climate variability	climate variability ; Climate variability ; Climate Variability ; variability in the climate ; variability in climate ; variability of the climate ; climate variations ; climate variation ; variations in climate ; variation of climate ; variation in climate ; variabilité du climat ; climate variability
+map	climate warming	climate warming ; warming climate ; Climate warming ; warming climates ; warming of the climate ; réchauffement climatique ; Global warming ; global warming
+map	climate-change impacts	climate-change impacts ; climate-change impact ; climate change impacts ; impacts of climate change ; impact of climate change ; climate change impact ; Climate change impacts ; Impacts of climate change ; Climate change impact ; impact on climate change ; impacts from climate change ; impact climate change ; impacts climate change ; Impacts of the climate change ; impact on the climate change ; impact of global climate change ; impacts of global climate change ; impact of the global climate change ; global climate change impacts ; impacts with global climate change ; global impacts of climate change ; impacts of future climate change ; impact of future climate change ; future impacts of climate change ; future climate change impacts ; future impact of climate change ; future climate change impact ; effects of climate change ; climate change effects ; effect of climate change ; Climate change effects ; Effects of climate change ; Effect of climate change ; climate change effect ; effects of climate changes ; climate change and the effect ; effects of the climate change ; effects climate change ; effects of change in climate ; effects and climate change ; effects on climate change ; effect on climate change ; effects with climate change ; climate change and the effects ; effects of global climate change ; effect of global climate change ; global effect of climate change ; global climate change effects ; global effects of climate change ; impacts du changement climatique ; climate-change impacts
+map	climatic variables	climatic variables ; climatic variable ; variables climatiques ; climatic variables
+map	co-benefits	co-benefits ; co-bénéfices
+map	CO2 capture	CO2 capture ; carbon dioxide capture ; captage du CO2 ; CO2 capture
+map	CO2 concentration	CO2 concentration ; CO2 concentrations ; concentrations and CO2 ; carbon dioxide concentration ; carbon dioxide concentrations ; concentration of carbon dioxide ; concentrations of carbon dioxide ; concentration de CO2 ; CO2 concentration
+map	CO2 efflux	CO2 efflux ; efflux de CO2
+map	CO2 emissions	CO2 emissions ; CO2 emission ; carbon dioxide emissions ; carbon dioxide emission ; Carbon dioxide emissions ; emission of carbon dioxide ; emissions of carbon dioxide ; émissions de CO2 ; CO2 emissions
+map	CO2 enrichment	CO2 enrichment ; enrichissement en CO2
+map	CO2 fluxes	CO2 fluxes ; CO2 flux ; flux de CO2 ; CO2 fluxes
+map	CO2 levels	CO2 levels ; niveaux de CO2
+map	coastal areas	coastal areas ; coastal area ; zones côtières ; coastal areas
+map	coastal communities	coastal communities ; coastal community ; communautés côtières ; coastal communities
+map	coastal ecosystems	coastal ecosystems ; coastal ecosystem ; écosystèmes côtiers ; coastal ecosystems
+map	coastal management	coastal management ; gestion du littoral
+map	coastal regions	coastal regions ; coastal region ; régions côtières ; coastal regions
+map	coastal wetlands	coastal wetlands ; wetlands and coastal ; zones humides côtières ; coastal wetlands
+map	coastal zone	coastal zone ; coastal zones ; zone côtière ; coastal zone
+map	cold tolerance	cold tolerance ; tolérance au froid
+map	colonization	colonization ; colonisation
+map	community change	community change ; community changes ; change community ; communities change ; changes in the community ; changes in community ; change communities ; changement de la communauté ; community change
+map	concentration pathways	concentration pathways ; concentration pathway ; voies de concentration ; concentration pathways
+map	conservation strategies	conservation strategies ; conservation strategy ; strategy for the conservation ; strategies for the conservation ; stratégies de conservation ; conservation strategies
+map	contamination	contamination
+map	continental shelf	continental shelf ; plate-forme continentale
+map	copepods	copepods ; Copepods ; copépodes ; copepods
+map	coral cover	coral cover ; couverture corallienne
+map	Coral reefs	Coral reefs ; coral reefs ; reef corals ; coral reef ; reef coral ; reefs both coral ; corals ; coral ; récifs coralliens ; Coral reefs
+map	coral species	coral species ; species of coral ; espèces de corail ; coral species
+map	crop	crop ; crops ; Crop ; récolte ; crop
+map	crop growth	crop growth ; croissance des cultures
+map	crop models	crop models ; crop model ; Crop models ; model crop ; modèles de culture ; crop models
+map	crop production	crop production ; Crop production ; production of crops ; crops production ; production of these crops ; production of crop ; production of each crop ; production agricole ; agricultural production
+map	crop yields	crop yields ; crop yield ; Crop yield ; Crop yields ; yields of crops ; yields for any crops ; yield of the crop ; yield of crop ; rendements des cultures ; crop yields
+map	cyanobacteria	cyanobacteria ; cyanobactéries
+map	data series	data series ; series data ; séries de données ; data series
+map	decision making	decision making ; prise de décision
+map	decision support	decision support ; support of decision ; aide à la décision ; decision support
+map	decision support system	decision support system ; decision support systems ; système d'aide à la décision ; decision support system
+map	decision-making processes	decision-making processes ; decision-making process ; processes of decision-making ; processes and decision-making ; processus décisionnels ; decision-making processes
+map	decomposition rates	decomposition rates ; decomposition rate ; rates of decomposition ; rate of decomposition ; taux de décomposition ; decomposition rates
+map	deforestation	deforestation ; déforestation
+map	desertification	desertification ; désertification
+map	dinoflagellate	dinoflagellate ; dinoflagellates ; Dinoflagellate ; dinoflagellés ; dinoflagellate
+map	disaster risk	disaster risk ; Disaster risk ; disaster risks ; risques de catastrophe ; disaster risk
+map	disturbance regimes	disturbance regimes ; disturbance regime ; régimes de perturbation ; disturbance regimes
+map	dominant species	dominant species ; espèces dominantes
+map	downscaling	downscaling
+map	downscaling model	downscaling model ; downscaling models ; model for downscaling ; model downscaling ; models in downscaling ; modèle de réduction d'échelle ; downscaling model
+map	drinking water	drinking water ; eau potable
+map	drought periods	drought periods ; drought period ; periods of drought ; drought during periods ; period of drought ; périodes de sécheresse ; drought periods
+map	drought risk	drought risk ; drought risks ; risk of drought ; risk for drought ; risque de sécheresse ; drought risk
+map	drought severity	drought severity ; Drought severity ; severity of drought ; severity of droughts ; drought of the severity ; sévérité de la sécheresse ; drought severity
+map	drought stress	drought stress ; Drought stress ; stress dû à la sécheresse ; drought stress
+map	drought tolerance	drought tolerance ; tolérance à la sécheresse
+map	early warning	early warning ; alerte précoce
+map	Earth system	Earth system ; Earth systems ; earth system ; système de la Terre ; Earth system
+map	earth system models	earth system models ; earth system model ; modèles du système terrestre ; earth system models
+map	economic development	economic development ; development economic ; développement économique ; economic development
+map	economic growth	economic growth ; croissance économique
+map	ecosystem	ecosystem ; ecosystems ; Ecosystems ; écosystème ; ecosystem
+map	ecosystem carbon	ecosystem carbon ; Ecosystem carbon ; carbon ecosystem ; carbone de l'écosystème ; ecosystem carbon
+map	ecosystem function	ecosystem function ; ecosystem functions ; function of the ecosystem ; fonction de l'écosystème ; ecosystem function
+map	ecosystem functioning	ecosystem functioning ; functioning of ecosystems ; functioning ecosystems ; functioning of this ecosystem ; functioning of the ecosystems ; functioning of these ecosystems ; ecosystem and the functioning ; fonctionnement de l'écosystème ; ecosystem functioning
+map	ecosystem processes	ecosystem processes ; ecosystem process ; processus écosystémiques ; ecosystem processes
+map	ecosystem respiration	ecosystem respiration ; respiration de l'écosystème
+map	ecosystem services	ecosystem services ; ecosystem service ; Ecosystem services ; ecosystems services ; services ecosystems ; Ecosystem service ; ecosystems and the services ; services of the ecosystems ; services the ecosystems  ; ecosystem goods and services ; ecosystem services and goods ; services écosystémiques ; ecosystem services
+map	ecotone	ecotone ; ecotones ; ecotone
+map	ectotherms	ectotherms ; ectothermes
+map	effects of global warming	effects of global warming ; effect of global warming ; global warming effects ; global warming effect ; effects of climate warming ; climate warming effects ; effets du réchauffement climatique ; effects of global warming
+map	electricity generation	electricity generation ; generation of electricity ; production d'électricité ; electricity generation
+map	elevated CO2	elevated CO2 ; Elevated CO2 ; high CO2 ; elevated carbon dioxide ; CO2 élevée ; elevated CO2
+map	elevated temperature	elevated temperature ; elevated temperatures ; Elevated temperature ; temperature and elevated ; température élevée ; elevated temperature
+map	elevation gradient	elevation gradient ; elevation gradients ; gradients in elevation ; gradients of elevation ; gradient of elevation ; elevational gradient ; elevational gradients ; gradient d'élévation ; elevation gradient
+map	emission factors	emission factors ; emission factor ; emissions factors ; facteurs d'émission ; emission factors
+map	emission reduction	emission reduction ; emissions reduction ; emission reductions ; emissions reductions ; reduction of emissions ; reduction in emissions ; reductions in emissions ; reduction in emission ; réduction des émissions ; emission reduction
+map	emission scenarios	emission scenarios ; emission scenario ; emissions scenarios ; emissions scenario ; scénarios d'émissions ; emission scenarios
+map	emissions from deforestation	emissions from deforestation ; émissions provenant de la déforestation
+map	emissions trading	emissions trading ; emission trading ; échange de quotas d'émissions ; emissions trading
+map	end of the 21st century	end of the 21st century ; end of 21st century ; late 21st century ; end of the twenty-first century ; twenty-first century end ; fin du 21e siècle ; end of the 21st century
+map	endangered species	endangered species ; espèces en voie de disparition
+map	endemic species	endemic species ; species endemic ; espèces endémiques ; endemic species
+map	energy balance	energy balance ; energy balances ; bilan énergétique ; energy balance
+map	energy budget	energy budget ; energy budgets ; budget de dépense énergétique ; energy budget
+map	energy consumption	energy consumption ; Energy consumption ; consumption of energy ; consommation d'énergie ; energy use ; Energy use ; use of energy ; use energy ; use of this energy
+map	energy demand	energy demand ; energy demands ; demand for energy ; demand of energy ; demands for energy ; demand in energy ; demande d'énergie ; energy demand
+map	energy efficiency	energy efficiency ; Energy efficiency ; efficiency of energy ; efficiency of the energy ; efficacité énergétique ; energy efficiency
+map	energy policy	energy policy ; energy policies ; policy energy ; politique énergétique ; energy policy
+map	energy production	energy production ; production of energy ; energy through production ; production d'énergie ; power generation ; generation of power
+map	energy resources	energy resources ; energy resource ; energy and resources ; resources for energy ; ressources énergétiques ; energy resources
+map	energy saving	energy saving ; energy savings ; économie d'énergie ; energy saving
+map	energy security	energy security ; Energy security ; sécurité énergétique ; energy security
+map	energy sources	energy sources ; energy source ; source energy ; source of energy ; sources of energy ; sources d'énergie ; energy sources
+map	energy supply	energy supply ; energy supplies ; supply of energy ; supplies of energy ; supply energy ; réserve d'énergie ; energy supply
+map	energy system	energy system ; energy systems ; Energy systems ; energy in this system ; système énergétique ; energy system
+map	energy technologies	energy technologies ; energy technology ; technologies de l'énergie ; energy technologies
+map	environmental change	environmental change ; environmental changes ; Environmental change ; Environmental changes ; changements environnementaux ; environmental change
+map	environmental data	environmental data ; données environnementales
+map	environmental degradation	environmental degradation ; dégradation de l'environnement
+map	environmental drivers	environmental drivers ; Environmental drivers ; facteurs environnementaux ; environmental factors ; Environmental factors ; environmental factor
+map	environmental flows	environmental flows ; Environmental flows ; environmental flow ; flux environnementaux ; environmental flows
+map	environmental gradients	environmental gradients ; environmental gradient ; gradients environnementaux ; environmental gradients
+map	environmental performance	environmental performance ; environmental performances ; performance and environmental ; performance environnementale ; environmental performance
+map	environmental policy	environmental policy ; environmental policies ; policy and environmental ; politique environnementale ; environmental policy
+map	environmental protection	environmental protection ; protection environementale
+map	environmental sustainability	environmental sustainability ; sustainability and environmental ; durabilité environnementale ; environmental sustainability
+map	environmental temperature	environmental temperature ; environmental temperatures ; Environmental temperature ; température de l'environnement ; environmental temperature
+map	environmental variability	environmental variability ; Environmental variability ; variabilité environnementale ; environmental variability
+map	environmental variation	environmental variation ; Environmental variation ; variation environnementale ; environmental variation
+map	enzyme activities	enzyme activities ; enzyme activity ; activity of an enzyme ; activity of enzyme ; activités enzymatiques ; enzyme activities
+map	epidemics	epidemics ; epidemic ; épidémies ; epidemics
+map	erosion	erosion ; érosion
+map	evaporation	evaporation ; Evaporation ; évaporation ; evaporation
+map	evapotranspiration	evapotranspiration ; évapotranspiration
+map	exotic species	exotic species ; espèces exotiques
+map	experimental warming	experimental warming ; Experimental warming ; réchauffement expérimental ; experimental warming
+map	extinction	extinction ; extinctions ; Extinction ; extinction
+map	extinction risk	extinction risk ; risk of extinction ; extinction risks ; Extinction risk ; risks of extinction ; risk for extinction ; risk from extinction ; risque d'extinction ; extinction risk
+map	extreme drought	extreme drought ; extreme droughts ; drought extremes ; drought and extreme ; droughts and extreme ; extremes of drought ; sécheresse extrême ; extreme drought
+map	extreme events	extreme events ; extreme event ; Extreme events ; événements extrêmes ; extreme events
+map	extreme heat	extreme heat ; heat extremes ; Extreme heat ; extremes of heat ; extreme high temperature ; extreme high temperatures ; high extreme temperatures ; chaleur extrème ; extreme heat
+map	extreme weather	extreme weather ; weather extremes ; weather extreme ; conditions météorologiques extrêmes ; extreme weather
+map	farming	farming ; farm ; farms ; Farms ; agriculture ; farming
+map	farming systems	farming systems ; farming system ; systems of farming ; systèmes agricoles ; farming systems
+map	fatty acids	fatty acids ; fatty acid ; acides gras ; fatty acids
+map	fecundity	fecundity ; fécondité
+map	feedstock	feedstock ; feedstocks ; matières premières ; feedstock
+map	field experiment	field experiment ; field experiments ; Field experiments ; expérience sur le terrain ; field experiment
+map	fire	fire ; fires ; Fires ; incendies ; fire
+map	fish assemblages	fish assemblages ; fish assemblage ; communautés de poissons ; fish assemblages
+map	fish species	fish species ; espèces de poissons
+map	fisheries	fisheries ; fishery ; Fisheries ; Fishery ; pêche ; fisheries
+map	fisheries management	fisheries management ; fishery management ; management of fisheries ; gestion des pêcheries ; fisheries management
+map	flood risk	flood risk ; flood risks ; Flood risk ; risques d'inondation ; flood risk
+map	floods and droughts	floods and droughts ; droughts and floods ; drought and flood ; floods or droughts ; flood and drought ; inondations et sécheresses ; floods and droughts
+map	flow regimes	flow regimes ; flow regime ; régimes d'écoulement ; flow regimes
+map	focus groups	focus groups ; focus group ; groupes de discussion ; focus groups
+map	food insecurity	food insecurity ; insécurité alimentaire
+map	food production	food production ; production of food ; production alimentaire ; food production
+map	food security	food security ; Food security ; security in food ; sécurité alimentaire ; food security
+map	food supply	food supply ; food supplies ; food and supplies ; ravitaillement ; food supply
+map	food system	food system ; food systems ; systems for food ; Système d'alimentation ; food system
+map	food web	food web ; food webs ; chaîne alimentaire ; food web
+map	forest	forest ; forests ; Forest ; forêt ; forest
+map	forest biomass	forest biomass ; biomasse forestière
+map	forest carbon	forest carbon ; Forest carbon ; forests carbon ; carbon forests ; forests for carbon ; carbon in forests ; carbone forestier ; forest carbon
+map	forest change	forest change ; forest changes ; changes in forest ; changes in the forest ; change of forest ; évolution des forêts ; forest change
+map	forest cover	forest cover ; Forest cover ; couverture forestière ; forest cover
+map	forest degradation	forest degradation ; dégradation des forêts
+map	forest ecosystems	forest ecosystems ; forest ecosystem ; Forest ecosystems ; forests ecosystems ; écosystèmes forestiers ; forest ecosystems
+map	forest growth	forest growth ; growth forest ; croissance des forêts ; forest growth
+map	forest inventory	forest inventory ; forest inventories ; inventaire forestier ; forest inventory
+map	forest land	forest land ; forest lands ; forest on land ; land forest ; forest landscape ; forest landscapes ; landscape forest ; forest sites ; forest site ; sites forestiers
+map	forest management	forest management ; Forest management ; management of forests ; forests management ; management forest ; management of forest ; management on forest ; management of these forests ; gestion des forêts ; forest management
+map	forest soils	forest soils ; forest soil ; soils under forest ; soils from the forest ; sols forestiers ; forest soils
+map	forest stands	forest stands ; forest stand ; peuplements forestiers ; forest stands
+map	forest structure	forest structure ; forest structures ; structure de la forêt ; forest structure
+map	forest trees	forest trees ; forest tree ; trees and forests ; trees outside forests ; trees or forests ; trees in the forest ; arbres forestiers ; forest trees
+map	forest types	forest types ; forest type ; types of forest ; types de forêts ; forest types
+map	fossil fuels	fossil fuels ; fossil fuel ; combustibles fossiles ; fossil fuels
+map	fresh water	fresh water ; fresh waters ; eau douce ; fresh water
+map	freshwater ecosystems	freshwater ecosystems ; Freshwater ecosystems ; freshwater ecosystem ; ecosystems from freshwater ; écosystèmes d'eau douce ; freshwater ecosystems
+map	functional diversity	functional diversity ; diversity and functional ; diversité fonctionnelle ; functional diversity
+map	functional groups	functional groups ; functional group ; groupes fonctionnels ; functional groups
+map	functional traits	functional traits ; Functional traits ; traits fonctionnels ; functional traits
+map	fungal communities	fungal communities ; fungal community ; communautés fongiques ; fungal communities
+map	future climate scenarios	future climate scenarios ; future climate scenario ; Future climate scenarios ; scenarios of future climate ; future scenarios of climate ; des scénarios climatiques futurs ; future climate scenarios
+map	gas emissions	gas emissions ; gas emission ; gases emissions ; gases emission ; emissions of gases ; emission of gases ; émissions de gaz ; gas emissions
+map	gas exchange	gas exchange ; échange de gaz
+map	gene	gene ; genes ; Gene ; gène ; gene
+map	gene expression	gene expression ; Gene expression ; expression of genes ; expression for genes ; expression du gène ; gene expression
+map	gene flow	gene flow ; Gene flow ; flux de gènes ; gene flow
+map	general circulation models	general circulation models ; general circulation model ; General circulation models ; modèles de circulation générale ; general circulation models
+map	genetic differentiation	genetic differentiation ; différenciation génétique
+map	Genetic diversity	Genetic diversity ; genetic diversity ; diversity and genetic ; diversité génétique ; Genetic diversity
+map	genetic structure	genetic structure ; structure génétique
+map	genetic variation	genetic variation ; variation génétique
+map	geographic distribution	geographic distribution ; geographic distributions ; Geographic distribution ; Répartition géographique ; geographic distribution
+map	geographic information system	geographic information system ; geographic information systems ; système d'information géographique ; geographic information system
+map	geographic range	geographic range ; geographic ranges ; aire géographique ; geographic range
+map	GHG emissions	GHG emissions ; Les émissions de GES
+map	global carbon cycle	global carbon cycle ; cycle mondial du carbone
+map	global warming potential	global warming potential ; global warming potentials ; potentiel de réchauffement planétaire ; global warming potential
+map	grain yield	grain yield ; grain yields ; Grain yield ; rendement en grains ; grain yield
+map	grassland ecosystems	grassland ecosystems ; grassland ecosystem ; écosystèmes des prairies ; grassland ecosystems
+map	greenhouse gas	greenhouse gas ; greenhouse gases ; Greenhouse gas ; Greenhouse gases ; gaz a effet de serre ; greenhouse gas
+map	greenhouse gas emissions	greenhouse gas emissions ; greenhouse gas emission ; Greenhouse gas emissions ; greenhouse gases emissions ; emissions of greenhouse gases ; emission of greenhouse gases ; greenhouse gases emission ; emissions of greenhouse gas ; émissions de gaz à effet de serre ; greenhouse gas emissions
+map	gross domestic product	gross domestic product ; GDP ; produit intérieur brut ; gross domestic product
+map	ground biomass	ground biomass ; biomass on the ground ; biomasse souterraine ; ground biomass
+map	ground water	ground water ; eaux souterraines
+map	groundwater recharge	groundwater recharge ; recharge groundwater ; recharge for groundwater ; recharge des eaux souterraines ; groundwater recharge
+map	groundwater resources	groundwater resources ; groundwater resource ; ressources en eau souterraine ; groundwater resources
+map	growth and survival	growth and survival ; survival and growth ; survival or growth ; growth or survival ; croissance et la survie ; growth and survival
+map	growth responses	growth responses ; growth response ; response of growth ; taux de croissance ; growth rates ; growth rate ; Growth rates ; Growth rate ; rate of growth
+map	habitat loss	habitat loss ; Habitat loss ; habitat losses ; loss of habitat ; loss habitat ; perte d'habitat ; habitat loss
+map	habitat suitability	habitat suitability ; Habitat suitability ; suitability of habitat ; qualité de l'habitat ; habitat suitability
+map	health effects	health effects ; effects on the health ; effets sur la santé ; health effects
+map	health impacts	health impacts ; health impact ; impact on health ; impacts on health ; impact on the health ; impacts sur la santé ; health impacts
+map	health risks	health risks ; health risk ; risques pour la santé ; health risks
+map	heat and drought	heat and drought ; drought and heat ; drought or heat ; heat and the drought ; chaleur et sécheresse ; heat and drought
+map	heat flux	heat flux ; heat fluxes ; flux de chaleur ; heat flux
+map	heat shock	heat shock ; Heat shock ; choc thermique ; heat shock
+map	heat shock protein	heat shock protein ; heat shock proteins ; protéines de choc thermique ; heat shock protein
+map	heat stress	heat stress ; Heat stress ; heat stresses ; stress heat ; stress thermique ; heat stress
+map	heat tolerance	heat tolerance ; tolerance for heat ; tolérance à la chaleur ; heat tolerance
+map	heat waves	heat waves ; heat wave ; Heat waves ; Heat wave ; vagues de chaleur ; heat waves
+map	heavy rainfall	heavy rainfall ; Heavy rainfall ; heavy rainfalls ; fortes précipitations ; heavy rainfall
+map	high latitudes	high latitudes ; higher latitudes ; high latitude ; latitudes higher ; hautes latitudes ; high latitudes
+map	High temperature	High temperature ; High temperatures ; high temperatures ; high temperature ; higher temperatures ; higher temperature ; Higher temperatures ; temperatures higher ; highest temperature ; highest temperatures ; Higher temperature ; temperature and higher ; temperature higher ; temperatures and higher ; temperature and high ; haute temperature ; High temperature
+map	higher altitudes	higher altitudes ; high altitudes ; high altitude ; higher altitude ; altitudes higher ; altitude high ; altitudes plus élevées ; higher altitudes
+map	host plant	host plant ; host plants ; plant host ; plante hôte ; host plant
+map	human health	human health ; Human health ; health of humans ; health and human ; santé humaine ; human health
+map	human rights	human rights ; human right ; droits de l'homme ; human rights
+map	humidity	humidity ; humidité
+map	hydrologic model	hydrologic model ; hydrologic models ; modèle hydrologique ; hydrological model ; hydrological models ; Hydrological models
+map	hydrological changes	hydrological changes ; hydrological change ; changements hydrologiques ; hydrological changes
+map	hydrological cycle	hydrological cycle ; hydrological cycles ; cycle hydrologique ; hydrological cycle
+map	hydrological processes	hydrological processes ; Hydrological Processes ; processus hydrologiques ; hydrological processes
+map	hydrological regime	hydrological regime ; hydrological regimes ; régime hydrologique ; hydrological regime
+map	ice age	ice age ; ice ages ; age of the ice ; âge de glace ; ice age
+map	ice cover	ice cover ; couverture de glace
+map	ice sheet	ice sheet ; ice sheets ; calotte glaciaire ; ice sheet
+map	ilex	ilex ; chêne vert
+map	impact assessment	impact assessment ; impact assessments ; impacts assessment ; assessment of the impacts ; assessment of the impact ; assessment of impacts ; assessment of impact ; impact analysis ; impact analyses ; analysis of both impact ; évaluation de l'impact ; impact assessment
+map	infectious diseases	infectious diseases ; infectious disease ; maladies infectieuses ; infectious diseases
+map	information system	information system ; information systems ; système d'information ; information system
+map	inorganic carbon	inorganic carbon ; carbone inorganique
+map	insect	insect ; insects ; insecte ; pest ; pests
+map	insecurity	insecurity ; insécurité
+map	integrated assessment models	integrated assessment models ; integrated assessment model ; modèles d'évaluation intégrés ; integrated assessment models
+map	interactive effects	interactive effects ; interactive effect ; Interactive effects ; effets d'interaction ; interactive effects
+map	interannual variability	interannual variability ; variabilité interannuelle
+map	invasive plants	invasive plants ; invasive plant ; plantes envahissantes ; invasive plants
+map	invasive species	invasive species ; Invasive species ; species and invasive ; espèces envahissantes ; invasive species
+map	irrigation	irrigation ; Irrigation ; irrigation
+map	irrigation water	irrigation water ; Irrigation water ; water for irrigation ; water from irrigation ; eau d'irrigation ; irrigation water
+map	lake level	lake level ; lake levels ; level of the lake ; niveau du lac ; lake level
+map	lake water	lake water ; lake waters ; water lake ; water from the lake ; water in the lake ; water of the lake ; eau des lacs ; lake water
+map	land area	land area ; land areas ; area of land ; areas of land ; area land ; surface des terre ; land area
+map	Land cover	Land cover ; land cover ; land covers ; cover land ; Couverture terrestre ; Land cover
+map	land cover types	land cover types ; land cover type ; types de couverture terrestre ; land cover types
+map	land degradation	land degradation ; degradation of land ; dégradation des terres ; land degradation
+map	land management	land management ; management of land ; gestion des terres ; land management
+map	Land surface	Land surface ; land surface ; land surfaces ; surface of the land ; surface des terres ; Land surface
+map	land surface temperature	land surface temperature ; land surface temperatures ; temperature of land surface ; température de surface de la terre ; land surface temperature
+map	Land use changes	Land use changes ; Land use change ; land-use change ; land-use changes ; Land-use change ; Land-use changes ; changes in land-use ; change in land-use ; land use change ; land use changes ; changes in land use ; change in land use ; change of land use ; use of land change ; utilisation des terres ; Land use ; land use ; land uses ; use land ; use of land
+map	land-cover change	land-cover change ; land-cover changes ; land cover change ; land cover changes ; changes in land cover ; change in land cover ; changes in both land cover ; changes of land cover ; changements de la couverture terrestre ; land-cover change
+map	large uncertainties	large uncertainties ; large uncertainty ; largest uncertainty ; largest uncertainties ; larger uncertainty ; grandes incertitudes ; large uncertainties
+map	larvae	larvae ; larves
+map	leaf area	leaf area ; surface foliaire
+map	leaf area index	leaf area index ; indice de surface foliaire
+map	leaf litter	leaf litter ; feuilles mortes
+map	life cycle	life cycle ; life cycles ; cycle de la vie ; life cycle
+map	Life cycle assessment	Life cycle assessment ; life cycle assessment ; life cycle assessments ; évaluation du cycle de vie ; Life cycle assessment
+map	life history	life history ; life histories ; history of life ; cycles biologiques ; life history
+map	life stages	life stages ; life stage ; stades de la vie ; life stages
+map	life-history traits	life-history traits ; life history traits ; traits d'histoire de vie ; life-history traits
+map	linear models	linear models ; linear model ; modèles linéaires ; linear models
+map	litter decomposition	litter decomposition ; Litter decomposition ; decomposition of litter ; décomposition de la litière ; litter decomposition
+map	livestock	livestock ; bétail
+map	livestock production	livestock production ; Livestock production ; production of all livestock ; production livestock ; production of livestock ; production de bétail ; livestock production
+map	local government	local government ; local governments ; government and local ; gouvernement local ; local government
+map	local level	local level ; local levels ; niveau local ; local level
+map	long run	long run ; long time periods ; long periods of time ; long period of time ; longer time period ; long time period ; longer period of time ; long terme ; long run
+map	long-term data	long-term data ; Long-term data ; données à long terme ; long-term data
+map	longer time scales	longer time scales ; long time scales ; long time scale ; scale long time ; échelles de temps plus longues ; longer time scales
+map	low cost	low cost ; lower cost ; lower costs ; low costs ; cost low ; costs low ; faible coût ; low cost
+map	low flows	low flows ; low flow ; flow and low ; étiages ; low flows
+map	low latitudes	low latitudes ; lower latitudes ; low latitude ; basses latitudes ; low latitudes
+map	low temperature	low temperature ; low temperatures ; lower temperatures ; lower temperature ; temperatures lower ; Low temperatures ; Lower temperatures ; temperature lower ; temperature and low ; basse température ; low temperature
+map	low-carbon	low-carbon ; faible teneur en carbone
+map	lower elevations	lower elevations ; low elevations ; low elevation ; lower elevation ; elevation and low ; altitudes inférieures ; lower elevations
+map	maize yield	maize yield ; maize yields ; yields for maize ; yields of maize ; rendement du maïs ; maize yield
+map	mammals	mammals ; mammal ; mammifères ; mammals
+map	management actions	management actions ; management action ; mesures de gestion ; management actions
+map	management decisions	management decisions ; management decision ; decisions on management ; décisions de gestion ; management decisions
+map	management options	management options ; management option ; options for management ; options de gestion ; management options
+map	management planning	management planning ; planning and management ; management and planning ; planification de la gestion ; management planning
+map	management policies	management policies ; management policy ; policy and management ; policies management ; policy management ; management and policy ; management and policies ; politiques de gestion ; management policies
+map	management practices	management practices ; management practice ; management in practice ; pratiques de gestion ; management practices
+map	management systems	management systems ; management system ; system management ; systems management ; management of the system ; systèmes de gestion ; management systems
+map	mangrove forests	mangrove forests ; mangrove forest ; Mangrove forests ; forêts de mangrove ; mangrove forests
+map	marine ecosystems	marine ecosystems ; marine ecosystem ; écosystèmes marins ; marine ecosystems
+map	marine environment	marine environment ; marine environments ; milieu marin ; marine environment
+map	mass balance	mass balance ; mass balances ; balance with the mass ; bilan massique ; mass balance
+map	mass loss	mass loss ; perte de masse
+map	maximum temperature	maximum temperature ; maximum temperatures ; temperature maximum ; température maximale ; maximum temperature
+map	mean sea level	mean sea level ; niveau moyen de la mer
+map	mean temperature	mean temperature ; mean temperatures ; temperature means ; Mean temperature ; temperature mean ; temperature by means ; température moyenne ; mean temperature
+map	metabolic rate	metabolic rate ; metabolic rates ; taux métabolique ; metabolic rate
+map	meteorological variables	meteorological variables ; variables météorologiques
+map	methane	methane ; Methane ; méthane ; methane
+map	methane emissions	methane emissions ; Methane emissions ; methane emission ; emission of methane ; methane by emissions ; emissions of methane ; émissions de méthane ; methane emissions
+map	metropolitan area	metropolitan area ; metropolitan areas ; zone metropolitaine ; metropolitan area
+map	microbes	microbes ; microbe ; microbes
+map	microbial activity	microbial activity ; microbial activities ; activité microbienne ; microbial activity
+map	microbial biomass	microbial biomass ; Microbial biomass ; biomasse microbienne ; microbial biomass
+map	microbial communities	microbial communities ; microbial community ; Microbial communities ; communautés microbiennes ; microbial communities
+map	microorganisms	microorganisms ; microorganismes
+map	migrants	migrants ; migrant ; migrants
+map	mineral soil	mineral soil ; mineral soils ; soil mineral ; soil minerals ; sol minéral ; mineral soil
+map	minimum temperature	minimum temperature ; minimum temperatures ; temperature minimum ; température minimale ; minimum temperature
+map	mitigation measures	mitigation measures ; mitigation measure ; mesures d'atténuation ; mitigation measures
+map	mitigation policies	mitigation policies ; mitigation policy ; politiques d'atténuation ; mitigation policies
+map	mitigation potential	mitigation potential ; potential mitigation ; potential for mitigation ; potentiel d'atténuation ; mitigation potential
+map	mitigation strategies	mitigation strategies ; mitigation strategy ; strategy of mitigation ; stratégies d'atténuation ; mitigation strategies
+map	model data	model data ; model and data ; data models ; data model ; model against data ; model with data ; data and a model ; data towards model ; models and data ; data and models ; données des modèles ; model data
+map	model outputs	model outputs ; model output ; Model output ; output of the model ; model with outputs ; output model ; model and the outputs ; résultats du modèle ; model outputs
+map	model parameters	paramètres du modèle ; model parameters
+map	model performance	model performance ; Model performance ; model performances ; models performance ; performances of the models ; performance of the model ; performance of models ; performance models ; model for the performance ; performance of these models ; performance of those models ; performance among these models ; performance du modèle ; model performance
+map	model predictions	model predictions ; prediction model ; Model predictions ; prediction models ; model prediction ; prédictions des modèles ; model predictions
+map	model projections	model projections ; Model projections ; projection models ; model projection ; projection model ; model for projection ; projections des modèles ; model projections
+map	moisture content	moisture content ; moisture contents ; teneur en humidité ; moisture content
+map	monsoon	monsoon ; mousson
+map	multimodel ensemble	multimodel ensemble ; multimodel ensembles ; multi-model ensemble ; ensemble multimodèle ; multimodel ensemble
+map	multiple stressors	multiple stressors ; multiples facteurs de stress
+map	national level	national level ; national levels ; niveau national ; national level
+map	native species	native species ; species native ; espèces indigènes ; native species
+map	natural gas	natural gas ; gaz naturel
+map	natural populations	natural populations ; natural population ; populations naturelles ; natural populations
+map	natural resources	natural resources ; natural resource ; resource but the natural ; ressources naturelles ; natural resources
+map	natural variability	natural variability ; variabilité naturelle
+map	negative effects	negative effects ; negative effect ; Negative effects ; effect or a negative ; effets négatifs ; negative effects
+map	net primary production	net primary production ; Net primary production ; production primaire nette ; net primary production
+map	net primary productivity	net primary productivity ; Net primary productivity ; productivité primaire nette ; net primary productivity
+map	niche models	niche models ; niche model ; Niche models ; modèles de niche ; niche models
+map	nitrate	nitrate
+map	nitrous oxide	nitrous oxide ; Nitrous oxide ; protoxyde d'azote ; nitrous oxide
+map	nuclear power	nuclear power ; énergie nucléaire
+map	numerical model	numerical model ; numerical models ; Numerical models ; modèle numérique ; numerical model
+map	nutrient availability	nutrient availability ; nutrients availability ; availability of these nutrients ; availability of nutrients ; disponibilité des nutriments ; nutrient availability
+map	nutrient cycling	nutrient cycling ; cycle des éléments nutritifs
+map	observed changes	observed changes ; observed change ; changements observés ; observed changes
+map	observed data	observed data ; données observées
+map	ocean	ocean ; oceans ; océan ; ocean
+map	ocean acidification	ocean acidification ; acidification des océans
+map	ocean and atmosphere	ocean and atmosphere ; ocean atmosphere ; atmosphere and ocean ; atmosphere ocean ; atmosphere or ocean ; ocean and the atmosphere ; atmosphere and the ocean ; l'océan et l'atmosphère ; ocean and atmosphere
+map	ocean circulation	ocean circulation ; circulation océanique
+map	ocean warming	ocean warming ; warming ocean ; warming of the ocean ; réchauffement de l'océan ; ocean warming
+map	organic carbon	organic carbon ; carbon organic ; carbone organique ; organic carbon
+map	organic matter	organic matter ; matière organique
+map	oxidative stress	oxidative stress ; stress oxydatif
+map	oxide	oxide ; oxides ; oxyde ; oxide
+map	oxygen	oxygen ; Oxygen ; oxygène ; oxygen
+map	ozone depletion	ozone depletion ; depletion of ozone ; diminution de la couche d'ozone ; ozone depletion
+map	past climate	past climate ; past climates ; climat du passé ; past climate
+map	peak flows	peak flows ; peak flow ; pointes d'écoulement ; peak flows
+map	permafrost	permafrost ; Permafrost ; pergélisol ; permafrost
+map	permafrost thaw	permafrost thaw ; Permafrost thaw ; permafrost thaws ; dégel du pergélisol ; permafrost thaw
+map	phenology	phenology ; phenologies ; Phenology ; phénologie ; phenology
+map	phenotypic plasticity	phenotypic plasticity ; Phenotypic plasticity ; plasticité phénotypique ; phenotypic plasticity
+map	phosphorus	phosphorus ; phosphore
+map	photosynthesis	photosynthesis ; photosynthèse
+map	photosynthetic rate	photosynthetic rate ; photosynthetic rates ; taux de photosynthèse ; photosynthetic rate
+map	phylogenetic diversity	phylogenetic diversity ; Phylogenetic diversity ; diversity and phylogenetic ; diversité phylogénétique ; phylogenetic diversity
+map	physiological responses	physiological responses ; physiological response ; Physiological responses ; réponses physiologiques ; physiological responses
+map	physiology	physiology ; physiologie
+map	phytoplankton	phytoplankton ; Phytoplankton ; phytoplancton ; phytoplankton
+map	phytoplankton community	phytoplankton community ; phytoplankton communities ; Phytoplankton community ; communauté de phytoplancton ; phytoplankton community
+map	pine	pine ; pines ; pin ; pine
+map	plankton	plankton ; Plankton ; plancton ; plankton
+map	plant biomass	plant biomass ; Plant biomass ; biomasse végétale ; plant biomass
+map	plant communities	plant communities ; plant community ; Plant communities ; Plant community ; plants communities ; plants in the communities ; plants in communities ; communautés végétales ; plant communities
+map	plant diversity	plant diversity ; diversité végétale
+map	plant functional types	plant functional types ; plant functional type ; plantes types fonctionnels ; plant functional types
+map	plant growth	plant growth ; Plant growth ; growth of plants ; plants growth ; growth for plants ; croissance des plantes ; plant growth
+map	plant responses	plant responses ; plant response ; Plant responses ; responses of plants ; responses of plant ; plants in response ; response of plants ; responses in plants ; response of plant ; responses between plant ; réponses des plantes ; plant responses
+map	plant species	plant species ; Plant species ; plants species ; species of plants ; espèces végétales ; plant species
+map	polar bears	polar bears ; polar bear ; Ours polaires ; polar bears
+map	policy development	policy development ; development policies ; development policy ; policy developments ; development of policies ; development of policy ; élaboration de politiques ; policy development
+map	policy implications	policy implications ; policy implication ; implications for policy ; Implications for policy ; implications politiques ; policy implications
+map	policy instruments	policy instruments ; policy instrument ; instruments politiques ; policy instruments
+map	policy-making	policy-making ; policymakers ; policy makers ; élaboration des politiques ; policy-making
+map	pollen	pollen ; Pollen ; pollen
+map	pollinator	pollinator ; pollinators ; pollinisateur ; pollinator
+map	pollutants	pollutants ; pollutant ; polluants ; pollutants
+map	pollution	pollution ; Pollution ; pollution
+map	population declines	population declines ; population decline ; déclin de la population ; population declines
+map	population dynamics	population dynamics ; dynamics of populations ; dynamics of the population ; dynamics of a population ; populations dynamics ; dynamics of these populations ; dynamique des populations ; population dynamics
+map	population genetic	population genetic ; genetic population ; population and genetic ; génétique des populations ; population genetic
+map	Population growth	Population growth ; population growth ; growth of population ; growth in population ; accroissement de la population ; Population growth
+map	population growth rate	population growth rate ; population growth rates ; rates of population growth ; growth rates of the population ; taux de croissance de la population ; population growth rate
+map	population level	population level ; population levels ; niveau de la population ; population level
+map	population models	population models ; population model ; modèles de population ; population models
+map	population size	population size ; population sizes ; size of a population ; taille de la population ; population size
+map	population structure	population structure ; structure of the population ; structure de la population ; population structure
+map	population trends	population trends ; population trend ; trends in the population ; tendances démographiques ; population trends
+map	population viability	population viability ; viability of populations ; viability of a population ; viabilité des populations ; population viability
+map	positive effect	positive effect ; positive effects ; effet positif ; positive effect
+map	positive feedback	positive feedback ; positive feedbacks ; retroaction positive ; positive feedback
+map	potato	potato ; Potato ; pomme de terre ; potato
+map	potential changes	potential changes ; potential change ; Potential changes ; changes potential ; changes and the potential ; changements potentiels ; potential changes
+map	potential distribution	potential distribution ; potential distributions ; Potential Distribution ; Potential distribution ; distribution and potential ; distribution de potentiel ; potential distribution
+map	potential evapotranspiration	potential evapotranspiration ; Potential evapotranspiration ; évapotranspiration potentielle ; potential evapotranspiration
+map	potential impacts of climate change	potential impacts of climate change ; potential impact of climate change ; potential climate change impacts ; Potential impacts of climate change ; Potential climate change impacts ; potential climate change impact ; climate change impact potential ; climate change impacts or the potential ; impacts potentiels du changement climatique ; potential impacts of climate change
+map	power plants	power plants ; power plant ; centrales ; power plants
+map	precipitation	precipitation ; precipitations ; précipitation ; precipitation
+map	precipitation changes	precipitation changes ; precipitation change ; changes in precipitation ; Precipitation changes ; change in precipitation ; change precipitation ; change of precipitation ; change in the precipitation ; changes of precipitation ; precipitation with no changes ; changes in the precipitation ; precipitation than changes ; precipitation than the change ; changements de précipitations ; precipitation changes
+map	precipitation data	precipitation data ; data of precipitation ; données sur les précipitations ; precipitation data
+map	precipitation events	precipitation events ; precipitation event ; précipitations ; precipitation events
+map	precipitation extremes	precipitation extremes ; extreme precipitation ; precipitation and extreme ; extremes in precipitation ; precipitation extreme ; extremes of this precipitation ; précipitations extrêmes ; precipitation extremes
+map	precipitation increase	precipitation increase ; increase in precipitation ; precipitation increases ; Precipitation increases ; increases in precipitation ; increase and precipitation ; increases precipitation ; precipitation and the increase ; precipitation and increase ; precipitation and increases ; increase of precipitation ; augmentation des précipitations ; precipitation increase
+map	precipitation regimes	precipitation regimes ; precipitation regime ; régimes de précipitations ; precipitation regimes
+map	predators	predators ; predator ; prédateurs ; predators
+map	primary production	primary production ; production primaire
+map	private sector	private sector ; private sectors ; secteur privé ; private sector
+map	probability distribution	probability distribution ; probability distributions ; distribution probability ; probability of distribution ; distribution de probabilité ; probability distribution
+map	production systems	production systems ; production system ; production of the systems ; systèmes de production ; production systems
+map	projected changes	projected changes ; Projected changes ; projected change ; change projects ; changements prévus ; projected changes
+map	projected climate change	projected climate change ; Projected climate change ; climate change and projected ; projected change in climate ; changement climatique prévu ; projected climate change
+map	protected areas	protected areas ; protected area ; aires protégées ; protected areas
+map	public health	public health ; santé publique
+map	public opinion	public opinion ; opinion publique
+map	pyrolysis	pyrolysis ; pyrolyse
+map	radial growth	radial growth ; Radial growth ; croissance radiale ; radial growth
+map	radiation	radiation ; radiations ; radiation
+map	radiocarbon	radiocarbon ; Radiocarbon ; radiocarbone ; radiocarbon
+map	rainfall	rainfall ; rainfalls ; chute de pluie ; rainfall
+map	rainfall events	rainfall events ; rainfall event ; event rainfall ; events with rainfall ; événements pluvieux ; rainfall events
+map	range shifts	range shifts ; range shift ; shift range ; range from shifts ; shifts in the range ; changements de gamme ; range shifts
+map	reanalysis data	reanalysis data ; data reanalysis ; data of reanalysis ; data from the reanalysis ; reanalysis of these data ; données de réanalyse ; reanalysis data
+map	reef ecosystems	reef ecosystems ; reef ecosystem ; écosystèmes des récifs ; reef ecosystems
+map	reef fish	reef fish ; reef fishes ; poissons de récif ; reef fish
+map	reflectance	reflectance ; réflectance
+map	refugia	refugia ; refugium ; refuges ; refugia
+map	regional climate	regional climate ; Regional Climate ; regional climates ; climat régional ; regional climate
+map	regional climate change	regional climate change ; regional climate changes ; changes in regional climate ; change in regional climate ; changement climatique régional ; regional climate change
+map	regional climate model	regional climate model ; regional climate models ; Regional climate models ; modèle climatique régional ; regional climate model
+map	regional scale	regional scale ; regional scales ; scale regional ; échelle régionale ; regional scale
+map	regression trees	regression trees ; regression tree ; arbres de régression ; regression trees
+map	relative humidity	relative humidity ; Relative humidity ; humidité relative ; relative humidity
+map	renewable energy	renewable energy ; renewable energies ; énergie renouvelable ; renewable energy
+map	renewable energy sources	renewable energy sources ; renewable energy source ; source of renewable energy ; renewable source of energy ; energy from renewable sources ; renewable sources of energy ; renewable energy resources ; sources d'énergie renouvelables ; renewable energy sources
+map	representative concentration pathways	representative concentration pathways ; representative concentration pathway ; scénario RCP ; representative concentration pathways
+map	reproductive success	reproductive success ; Reproductive success ; succès de la reproduction ; reproductive success
+map	resource management	resource management ; resources management ; management of these resources ; management of resources ; management resources ; management of this resource ; gestion des ressources ; resource management
+map	resource use	resource use ; use of resources ; resources use ; resources though the use ; use of the resource ; utilisation des ressources ; resource use
+map	respiration rates	respiration rates ; respiration rate ; rates of respiration ; rate of respiration ; taux de respiration ; respiration rates
+map	return period	return period ; return periods ; périodicité ; return period
+map	rice production	rice production ; production of rice ; production de riz ; rice production
+map	risk analysis	risk analysis ; risk analyses ; analysis of the risk ; analyse de risque ; risk analysis
+map	risk factors	risk factors ; risk factor ; risk of the factor ; facteurs de risque ; risk factors
+map	risk management	risk management ; gestion des risques
+map	risk perception	risk perception ; risk perceptions ; perception of risk ; perceptions of risk ; perception du risque ; risk perception
+map	risk reduction	risk reduction ; reduction in risk ; réduction des risques ; risk reduction
+map	river basin	river basin ; river basins ; bassin de la rivière ; river basin
+map	river flow	river flow ; river flows ; débit de la rivière ; river discharge ; river discharges
+map	river systems	river systems ; river system ; systèmes fluviaux ; river systems
+map	river water	river water ; water from the river ; eau de rivière ; river water
+map	runoff changes	runoff changes ; runoff change ; changes in runoff ; change in runoff ; changes in the runoff ; changes on runoff ; runoff and changes ; changements des ruissellements ; runoff changes
+map	rural areas	rural areas ; rural area ; zones rurales ; rural areas
+map	salinity	salinity ; Salinity ; salinities ; salinité ; salinity
+map	salt marsh	salt marsh ; salt marshes ; marais salant ; salt marsh
+map	satellite data	satellite data ; Satellite data ; données par satellite ; satellite data
+map	sea level	sea level ; sea levels ; niveau de la mer ; sea level
+map	sea surface	sea surface ; surface sea ; surface de la mer ; sea surface
+map	sea surface temperature	sea surface temperature ; sea surface temperatures ; surface sea temperatures ; température de surface de la mer ; sea surface temperature
+map	sea-ice	sea-ice ; sea ice ; glace de mer ; sea-ice
+map	sea-level change	sea-level change ; sea-level changes ; changes in sea-level ; sea level change ; sea level changes ; changes in sea level ; change sea level ; changement du niveau de la mer ; sea-level change
+map	sea-level rise	sea-level rise ; Sea-level rise ; sea-level rises ; rise of sea-level ; sea level rise ; rise in sea level ; rise of the sea level ; élévation du niveau de la mer ; sea-level rise
+map	seasonal cycle	seasonal cycle ; seasonal cycles ; cycle saisonnier ; seasonal cycle
+map	seasonal temperature	seasonal temperature ; seasonal temperatures ; température saisonnière ; seasonal temperature
+map	seawater temperature	seawater temperature ; seawater temperatures ; température de l'eau de mer ; seawater temperature
+map	sediment core	sediment core ; sediment cores ; core sediment ; carotte de sédiment ; sediment core
+map	sediment load	sediment load ; sediment loads ; loads of sediment ; charge sédimentaire ; sediment load
+map	sediment transport	sediment transport ; transport des sédiments
+map	sediment yield	sediment yield ; sediment yields ; apport de sédiments ; sediment yield
+map	seed	seed ; seeds ; Seeds ; Seed ; graine ; seed
+map	seed dispersal	seed dispersal ; dispersion des graines
+map	serious challenges	serious challenges ; serious challenge ; new challenges ; new challenge ; grand challenges ; grand challenge ; significant challenges ; significant challenge ; défis majeurs ; serious challenges
+map	sex ratio	sex ratio ; sex ratios ; sex-ratio ; sex ratio
+map	shale gas	shale gas ; gaz de schiste
+map	shallow lakes	shallow lakes ; shallow lake ; lacs peu profonds ; shallow lakes
+map	shoreline	shoreline ; shorelines ; littoral ; shoreline
+map	small islands	small islands ; small island ; petites îles ; small islands
+map	snow cover	snow cover ; Snow cover ; couverture neigeuse ; snow cover
+map	snow depth	snow depth ; snow depths ; depth of snow ; profondeur de la neige ; snow depth
+map	snowmelt	snowmelt ; snow melt ; melt snow ; fonte des neiges ; snowmelt
+map	social vulnerability	social vulnerability ; vulnérabilité sociale
+map	social-ecological systems	social-ecological systems ; social-ecological system ; systèmes socio-écologiques ; social-ecological systems
+map	soil carbon	soil carbon ; Soil carbon ; carbon in soils ; carbon in the soil ; carbon in soil ; soils carbon ; carbone du sol ; soil carbon
+map	soil CO2	soil CO2 ; Soil CO2 ; CO2 du sol ; soil CO2
+map	soil CO2 emissions	soil CO2 emissions ; Soil CO2 emissions ; CO2 emissions from soil ; CO2 emissions from the soil ; soil CO2 efflux ; Soil CO2 efflux ; émissions de CO2 des sols ; soil CO2 emissions
+map	soil depth	soil depth ; soil depths ; soil and depth ; depth of the soil ; depth soil ; depth of soil ; profondeur du sol ; soil depth
+map	soil erosion	soil erosion ; Soil erosion ; erosion of soil ; érosion des sols ; soil erosion
+map	soil fertility	soil fertility ; fertility soil ; fertilité des sols ; soil fertility
+map	soil layers	soil layers ; soil layer ; layer soil ; couches du sol ; soil layers
+map	soil microbial	soil microbial ; Soil microbial ; soil and microbial ; microbienne du sol ; soil microbial
+map	soil microbial communities	soil microbial communities ; soil microbial community ; Soil microbial communities ; Soil microbial community ; microbial communities in the soil ; communautés microbiennes du sol ; soil microbial communities
+map	soil moisture	soil moisture ; Soil moisture ; humidité du sol ; soil moisture
+map	soil nutrient	soil nutrient ; soil nutrients ; Soil nutrient ; soil and nutrient ; éléments nutritifs du sol ; soil nutrient
+map	soil organic	soil organic ; Soil organic ; organic soils ; organic soil ; matière organique du sol ; soil organic matter ; Soil organic matter
+map	soil organic carbon	soil organic carbon ; Soil organic carbon ; organic carbon in soil ; organic soil carbon ; carbon as soil organic ; organic carbon in the soil ; carbone organique du sol ; soil organic carbon
+map	soil properties	soil properties ; soil property ; propriétés du sol ; soil properties
+map	soil respiration	soil respiration ; Soil respiration ; respiration du sol ; soil respiration
+map	soil samples	soil samples ; Soil samples ; soil sample ; soil sampling ; samples of soil ; échantillons de sol ; soil samples
+map	soil surface	soil surface ; surface soil ; surface soils ; soil surfaces ; surface of soil ; surface and soil ; surface du sol ; soil surface
+map	soil temperature	soil temperature ; soil temperatures ; Soil temperature ; Soil temperatures ; temperature and soil ; température du sol ; soil temperature
+map	soil types	soil types ; soil type ; type of soil ; soil for each type ; types de sols ; soil types
+map	soil water	soil water ; Soil water ; soil and water ; soil or water ; water and soil ; eau du sol ; soil water
+map	soil water content	soil water content ; Soil water content ; water content of the soil ; water content of soil ; teneur en eau du sol ; soil water content
+map	solar energy	solar energy ; énergie solaire
+map	solar radiation	solar radiation ; radiation solaire
+map	sorghum	sorghum ; Sorghum ; sorgho ; sorghum
+map	sources of uncertainty	sources of uncertainty ; uncertainty sources ; source of uncertainty ; sources of uncertainties ; uncertainty source ; sources and uncertainties ; uncertainty as some sources ; uncertainty as a source ; uncertainties in the sources ; sources d'incertitude ; sources of uncertainty
+map	spatial planning	spatial planning ; aménagement du territoire
+map	spatial resolution	spatial resolution ; spatial resolutions ; resolution spatial ; résolution spatiale ; spatial resolution
+map	species abundance	species abundance ; species abundances ; abundance of species ; abundance of some species ; abundance of these species ; abundance of each species ; abundance across all species ; abundance of this species ; abondance des espèces ; species abundance
+map	species composition	species composition ; species compositions ; composition of species ; composition des espèces ; species composition
+map	Species distribution	Species distribution ; Species distributions ; species distribution ; species distributions ; distribution of species ; distribution of the species ; distribution of each species ; distribution of this species ; distribution of a species ; distribution of these species ; distributions of each species ; distributions of these species ; distribution of some species ; distribution of both species ; distribution of those species ; répartition des espèces ; Species distribution
+map	species distribution models	species distribution models ; species distribution model ; species distributions models ; models on species distributions ; models of species distributions ; modèles de répartition des espèces ; species distribution models
+map	species diversity	species diversity ; diversity of species ; diversity for this species ; diversity within these species ; diversité des espèces ; species diversity
+map	species interactions	species interactions ; interactions between species ; species interaction ; interactions among species ; interactions of species ; interactions in both species ; interactions entre les espèces ; species interactions
+map	species responses	species responses ; species response ; response of species ; species in response ; responses of species ; response of a species ; response of these species ; response species ; response of this species ; response of any species ; response among species ; responses per species ; responses across species ; responses of this species ; réponses des espèces ; species responses
+map	Species richness	Species richness ; species richness ; richness of species ; richesse en espèces ; Species richness
+map	statistical downscaling	statistical downscaling ; Statistical downscaling ; réduction d'échelle statistique ; statistical downscaling
+map	statistical models	statistical models ; statistical model ; Statistical models ; modèles statistiques ; statistical models
+map	stomatal conductance	stomatal conductance ; conductance stomatique
+map	storage capacity	storage capacity ; storage capacities ; capacité de stockage ; storage capacity
+map	storm surge	storm surge ; storm surges ; Storm surges ; onde de tempête ; storm surge
+map	stratosphere	stratosphere ; stratosphère
+map	stratospheric ozone	stratospheric ozone ; ozone stratosphérique
+map	stream temperature	stream temperature ; stream temperatures ; Stream temperature ; température du courant ; stream temperature
+map	stress response	stress response ; stress responses ; stress in response ; réponse au stress ; stress response
+map	sub-basins	sub-basins ; sous-bassins
+map	suitable habitat	suitable habitat ; suitable habitats ; habitats suitable ; habitat suitable ; habitat convenable ; suitable habitat
+map	summer monsoon	summer monsoon ; summer monsoons ; mousson d'été ; summer monsoon
+map	summer precipitation	summer precipitation ; precipitation in summer ; precipitation from summer ; precipitation during summer ; precipitation in the summer ; summer for precipitation ; précipitations estivales ; summer precipitation
+map	supply and demand	supply and demand ; demand and supply ; supply demand ; demand supply ; supply and a demand ; offre et la demande ; supply and demand
+map	supply chain	supply chain ; supply chains ; chaîne d'approvisionnement ; supply chain
+map	support system	support system ; support systems ; système de soutien ; support system
+map	surface air temperature	surface air temperature ; surface air temperatures ; air and surface temperatures ; air surface temperature ; surface and air temperature ; surface minus air temperature ; température de l'air de surface ; surface air temperature
+map	surface albedo	surface albedo ; albédo
+map	surface energy	surface energy ; energy surface ; énergie de surface ; surface energy
+map	surface runoff	surface runoff ; ruissellement de surface
+map	surface temperature	surface temperature ; surface temperatures ; température de surface ; surface temperature
+map	surface warming	surface warming ; réchauffement de la surface
+map	surface water	surface water ; surface waters ; water surface ; eaux de surface ; surface water
+map	survival rates	survival rates ; survival rate ; taux de survie ; survival rates
+map	sustainability	sustainability ; Sustainability ; durabilité ; sustainability
+map	sustainable development	sustainable development ; développement durable
+map	sustainable management	sustainable management ; management and sustainable ; gestion durable ; sustainable management
+map	symbiont	symbiont ; symbionts ; symbiote ; symbiont
+map	tax	tax ; impôt
+map	temperate forests	temperate forests ; temperate forest ; forêts tempérées ; temperate forests
+map	temperature and CO2	temperature and CO2 ; CO2 and temperature ; temperature or CO2 ; température et CO2 ; temperature and CO2
+map	temperature and precipitation	temperature and precipitation ; precipitation and temperature ; temperatures and precipitation ; temperature or precipitation ; precipitation and temperatures ; precipitation or temperature ; temperature precipitation ; precipitation with temperature ; temperature and the precipitation ; precipitation than for temperature ; precipitation or temperatures ; température et précipitations ; temperature and precipitation
+map	temperature anomalies	temperature anomalies ; temperature anomaly ; anomalies de température ; temperature anomalies
+map	temperature change	temperature change ; temperature changes ; changes in temperature ; change in temperature ; Temperature change ; Changes in temperature ; temperatures changes ; changes of temperature ; changes in temperatures ; changes in the temperature ; temperature and change ; change in the temperature ; change temperature ; temperature with a change ; temperatures and changes ; change of the temperature ; changes on the temperature ; temperature by changes ; changes between temperature ; change of temperature ; changement de température ; temperature change
+map	temperature data	temperature data ; data on temperature ; data about temperature ; données de température ; temperature data
+map	temperature effects	temperature effects ; effects of temperature ; effect of temperature ; temperature effect ; Temperature effects ; Effects of temperature ; Effect of temperature ; effect temperature ; effects on temperature ; effect of the temperature ; effets de la température ; temperature effects
+map	temperature extremes	temperature extremes ; extreme temperatures ; extreme temperature ; Extreme temperatures ; temperature and extreme ; extremes in temperature ; temperature extreme ; temperature nor that extreme ; extremes of temperature ; températures extrêmes ; temperature extremes
+map	temperature gradient	temperature gradient ; temperature gradients ; gradients of temperature ; gradients in temperature ; gradient de température ; temperature gradient
+map	temperature increase	temperature increase ; temperature increases ; increase in temperature ; increases in temperature ; Temperature increases ; temperatures increase ; increase of temperature ; Temperature increase ; increase in temperatures ; increasing temperatures ; increases in temperatures ; increase in the temperature ; increase temperature ; temperatures increases ; increases the temperature ; increases in the temperature ; increases in both temperature ; increases with temperature ; augmentation de la température ; temperature increase
+map	temperature range	temperature range ; temperature ranges ; range of temperatures ; range of temperature ; temperatures in the range ; temperatures outside the range ; temperatures within this range ; temperatures in a range ; temperatures within the range ; temperature into the range ; temperature and ranges ; temperature in the range ; écart de température ; temperature range
+map	temperature regimes	temperature regimes ; temperature regime ; régimes de température ; temperature regimes
+map	temperature rise	temperature rise ; rise in temperature ; temperature rises ; temperatures rise ; rise of temperature ; rise of temperatures ; rise in the temperature ; rise in temperatures ; hausse de température ; temperature rise
+map	temperature sensitivity	temperature sensitivity ; Temperature sensitivity ; temperature sensitivities ; sensitivity temperature ; sensitivity of temperature ; sensibilité à la température ; temperature sensitivity
+map	temperature stress	temperature stress ; stress from temperature ; stress de température ; temperature stress
+map	temperature trends	temperature trends ; temperature trend ; trends in temperature ; trend in temperature ; trends of temperature ; trend of temperature ; trends for temperature ; tendances de la température ; temperature trends
+map	temperature variability	temperature variability ; variability in temperature ; variability of temperature ; variabilité de la température ; temperature variability
+map	temperature variation	temperature variation ; temperature variations ; variations in temperature ; Temperature variation ; variation in temperature ; temperature and variation ; temperature despite variation ; variations of temperature ; variations with temperature ; variation de la température ; temperature variation
+map	terrestrial ecosystems	terrestrial ecosystems ; terrestrial ecosystem ; écosystèmes terrestres ; terrestrial ecosystems
+map	thermal comfort	thermal comfort ; confort thermique
+map	thermal regimes	thermal regimes ; thermal regime ; régimes thermiques ; thermal regimes
+map	thermal stress	thermal stress ; thermal stresses ; stress thermal ; contrainte thermique ; thermal stress
+map	thermal tolerance	thermal tolerance ; thermal tolerances ; tolérance thermique ; thermal tolerance
+map	thermocline	thermocline
+map	time-series analysis	time-series analysis ; analysis of time-series ; time series analysis ; Time series analysis ; time series analyses ; analyses of time series ; analysis of time series ; time series data ; data and time series ; data time series ; analyse des séries chronologiques ; time-series analysis
+map	timescales	timescales ; time scales ; échelles de temps ; timescales
+map	total nitrogen	total nitrogen ; azote total
+map	total phosphorus	total phosphorus ; quantité total de phosphore
+map	tree growth	tree growth ; Tree growth ; growth of trees ; trees growth ; growth in trees ; croissance des arbres ; tree growth
+map	tree species	tree species ; Tree species ; species tree ; species of trees ; trees species ; trees of both species ; species from tree ; species for tree ; espèces d'arbres ; tree species
+map	trend analysis	trend analysis ; Trend analysis ; trend analyses ; analysis of trends ; trends analysis ; analysis of the trend ; trend in either analysis ; analyse de tendances ; trend analysis
+map	trophic levels	trophic levels ; trophic level ; niveaux trophiques ; trophic levels
+map	tropical cyclones	tropical cyclones ; tropical cyclone ; Tropical cyclones ; Tropical cyclone ; cyclones tropicaux ; tropical cyclones
+map	trust	trust ; confiance
+map	tundra	tundra ; toundra
+map	twentieth century	twentieth century ; XXe siècle
+map	twenty-first century	twenty-first century ; vingt et unième siècle
+map	uncertainty analysis	uncertainty analysis ; uncertainty analyses ; analysis of uncertainty ; analysis of the uncertainty ; analyse de l'incertitude ; uncertainty analysis
+map	urban areas	urban areas ; urban area ; Urban areas ; zones urbaines ; urban areas
+map	urban environment	urban environment ; urban environments ; environnement urbain ; urban environment
+map	urban heat island	urban heat island ; urban heat islands ; Urban heat island ; îlot de chaleur urbain ; urban heat island
+map	urban planning	urban planning ; aménagement urbain
+map	vascular plants	vascular plants ; vascular plant ; plantes vasculaires ; vascular plants
+map	vegetation cover	vegetation cover ; cover vegetation ; couverture végétale ; vegetation cover
+map	vegetation dynamics	vegetation dynamics ; dynamique de la végétation
+map	vegetation growth	vegetation growth ; growth of vegetation ; croissance de la végétation ; vegetation growth
+map	vegetation index	vegetation index ; indice de végétation
+map	vegetation model	vegetation model ; vegetation models ; modèle de végétation ; vegetation model
+map	vegetation phenology	vegetation phenology ; phenology of vegetation ; phénologie de la végétation ; vegetation phenology
+map	vegetation responses	vegetation responses ; vegetation response ; response of vegetation ; responses of vegetation ; vegetation in response ; response of the vegetation ; responses of the vegetation ; réponses de la végétation ; vegetation responses
+map	vegetation types	vegetation types ; vegetation type ; types of vegetation ; type of vegetation ; types de végétation ; vegetation types
+map	vulnerability assessment	vulnerability assessment ; vulnerability assessments ; assessment of vulnerability ; assessment of the vulnerability ; évaluation de la vulnérabilité ; vulnerability assessment
+map	warm periods	warm periods ; warm period ; périodes chaudes ; warm periods
+map	warmer temperatures	warmer temperatures ; warm temperatures ; warmer temperature ; warm temperature ; temperature and the warmer ; températures plus chaudes ; warmer temperatures
+map	warmer waters	warmer waters ; warm water ; warm waters ; warmer water ; water and warmer ; eaux plus chaudes ; warmer waters
+map	warming effects	warming effects ; warming effect ; effects of warming ; effect of warming ; effects of this warming ; effets du réchauffement ; warming effects
+map	warming potential	warming potential ; warming potentials ; warming on the potential ; potentiel de réchauffement ; warming potential
+map	warming scenario	warming scenario ; warming scenarios ; scénario de réchauffement ; warming scenario
+map	warming trend	warming trend ; warming trends ; tendance au réchauffement ; warming trend
+map	water availability	water availability ; Water availability ; availability of water ; availability of the water ; disponibilité de l'eau ; water availability
+map	water balance	water balance ; water balances ; Water balance ; l'équilibre de l'eau ; water balance
+map	water budget	water budget ; water budgets ; budgets pour l'eau ; water budget
+map	water column	water column ; column water ; colonne d'eau ; water column
+map	water conservation	water conservation ; conservation de l'eau
+map	water consumption	water consumption ; consumption of water ; consommation d'eau ; water consumption
+map	water content	water content ; water contents ; Water content ; teneur en eau ; water content
+map	water cycle	water cycle ; water cycles ; cycle de l'eau ; water cycle
+map	water deficit	water deficit ; water deficits ; Water deficit ; deficit water ; déficit en eau ; water deficit
+map	water demand	water demand ; water demands ; demand for water ; Water demand ; demands for water ; demand of water ; demande en eau ; water demand
+map	water depth	water depth ; water depths ; depth water ; depth of water ; profondeur de l'eau ; water depth
+map	water flow	water flow ; water flows ; flow of water ; flow of the water ; débit d'eau ; water flow
+map	water footprint	water footprint ; empreinte hydrique
+map	water governance	water governance ; Water governance ; gouvernance de l'eau ; water governance
+map	water level	water level ; water levels ; Water level ; Water levels ; level water ; niveau d'eau ; water level
+map	water loss	water loss ; water losses ; Water loss ; loss of water ; perte en eau ; water loss
+map	water management	water management ; Water management ; management of water ; gestion de l'eau ; water management
+map	water masses	water masses ; water mass ; Water mass ; mass of water ; masses d'eau ; water masses
+map	water potential	water potential ; water potentials ; potentiel hydrique ; water potential
+map	water quality	water quality ; Water quality ; quality of water ; quality water ; qualité d'eau ; water quality
+map	water requirements	water requirements ; water requirement ; requirement of water ; besoins en eau ; water requirements
+map	water resources	water resources ; water resource ; Water resources ; Water resource ; resource water ; resources water ; ressources en eau ; water resources
+map	water resources management	water resources management ; water resource management ; management of water resources ; Water resources management ; gestion des ressources en eau ; water resources management
+map	water scarcity	water scarcity ; Water scarcity ; scarcity of water ; pénurie d'eau ; water shortage ; water shortages ; Water shortages ; Water shortage ; shortage of water
+map	water security	water security ; security via water ; security of water ; sécurité de l'eau ; water security
+map	water sources	water sources ; water source ; source waters ; source water ; source for water ; sources d'eau ; water sources
+map	water storage	water storage ; storage of water ; storage water ; water in storage ; stockage de l'eau ; water storage
+map	water stress	water stress ; Water stress ; water stresses ; stress hydrique ; water stress
+map	water supply	water supply ; water supplies ; Water supply ; supply of water ; supply water ; approvisionnement en eau ; water supply
+map	water table	water table ; water tables ; Water table ; niveau hydrostatique ; water table
+map	water temperature	water temperature ; water temperatures ; Water temperature ; Water temperatures ; water and temperature ; temperature of the water ; water within temperature ; temperature of water ; température de l'eau ; water temperature
+map	water treatment	water treatment ; water treatments ; treatment of the water ; treatment water ; traitement des eaux ; water treatment
+map	water use	water use ; water uses ; Water use ; use of water ; utilisation de l'eau ; water use
+map	water vapor	water vapor ; Water vapor ; vapor water ; vapeur d'eau ; water vapor
+map	water-use efficiency	water-use efficiency ; water use efficiency ; Water use efficiency ; water efficiency use ; efficacité de l'utilisation de l'eau ; water-use efficiency
+map	watershed	watershed ; watersheds ; bassin versant ; watershed
+map	wave height	wave height ; wave heights ; hauteur des vagues ; wave height
+map	weather conditions	weather conditions ; conditions météorologiques
+map	weather data	weather data ; données météorologiques ; meteorological data ; data and meteorological
+map	weather events	weather events ; weather event ; événements météorologiques ; weather events
+map	weather generator	weather generator ; weather generators ; simulateurs météorologiques ; weather generator
+map	weather stations	weather stations ; weather station ; station weather ; stations météorologiques ; meteorological stations ; meteorological station
+map	well-being	well-being ; bien-être
+map	wheat production	wheat production ; production of wheat ; production de blé ; wheat production
+map	wheat yield	wheat yield ; wheat yields ; rendement du blé ; wheat yield
+map	wildlife	wildlife ; faune
+map	wind power	wind power ; power wind ; énergie éolienne ; wind energy ; wind and energy ; energy from wind
+map	wind speed	wind speed ; wind speeds ; vitesse du vent ; wind speed
+map	wind stress	wind stress ; stress dû au vent
+map	winter wheat	winter wheat ; blé d'hiver
+map	woodland	woodland ; woodlands ; bois ; woodland
+map	yield increases	yield increases ; yield increase ; yields increase ; increase in yield ; increases yield ; increase of yield ; increases in yield ; yields with an increase ; augmentations des rendements ; yield increases
+map	yield losses	yield losses ; yield loss ; pertes de rendement ; yield losses
+map	yield potential	yield potential ; potential yields ; yield potentials ; potential yield ; yields potential ; potentiel de rendement ; yield potential
+map	zooplankton	zooplankton ; Zooplankton ; zooplancton ; zooplankton

@@ -1,0 +1,41 @@
+---
+title: "analyse_discours"
+author: "TR"
+date: "24/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+###PAQUETS ###
+```{r}
+install.packages("tidytext")
+install.packages("tidyverse")
+```
+
+
+```{r}
+library(tidytext)
+
+
+setwd("C:/Users/Tanguy RUAULT/Downloads/data_isc")
+
+
+climato_sc = readLines("corpus/tx_climato_sc.csv", skipNul = TRUE)
+
+df_climato_sc = data.frame(as.character(c(climato_sc)))
+df_climato_sc$words = df_climato_sc$climato_sc
+
+
+
+````
+
+
+```{r}
+unnest_tokens(df_climato_sc, output = word, input = words)
+```
+
